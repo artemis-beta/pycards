@@ -21,7 +21,7 @@ class Card(object):
         self.Suit = suit
         self.Rank = num
 
-    def Score(self, ace_high=False, score_dict=None):
+    def score(self, ace_high=False, score_dict=None):
         '''
         Score the card with option to set Ace to be 11 as opposed to 1
 
