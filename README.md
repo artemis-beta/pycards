@@ -1,4 +1,6 @@
-# pycards
+# pycards    
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 A module consisting of objects to represent a standard pack of 52 playing cards.
 
 ## The Basics
